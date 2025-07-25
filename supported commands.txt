@@ -1,0 +1,20 @@
+﻿LIST OF SUPPORTED COMMANDS 
+
+
+Say This
+	It Should Do This
+	"Open notepad"
+	Launches Notepad
+	"What is the time?"
+	Speaks the current time
+	"Search AI tools"
+	Opens browser with Google search
+	"Tell me a joke"
+	Says a joke
+	"Take note"
+	Saves your spoken note to note.txt
+	"Show note"
+	Reads back saved notes
+	"Exit" or "Stop"
+	Closes the program
+	 Note :Search anything (aple,ai news , education , how to write a blog etc)
